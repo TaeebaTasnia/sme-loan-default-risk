@@ -1,0 +1,17 @@
+# Large data files
+data/
+SBAnational.csv
+
+# Model and plot outputs
+models/
+plots/
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj.user
+
+# OS
+.DS_Store
+Thumbs.db
